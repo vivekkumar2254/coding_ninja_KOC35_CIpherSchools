@@ -13,4 +13,4 @@ while True:
     else:
         print(f"you guessed the number in {attempts} attempts")
         break
-    print("Thanks for playing!")
+    # print("Thanks for playing!")
